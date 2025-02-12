@@ -1,0 +1,46 @@
+Report Type,,,,,
+,,,,,
+Report Type,# of Reports,,,,
+Fraud,"2,566,261",47.6% of total reports,,,
+Identity Theft,"1,036,903",19.2% of total reports,,,
+Other,"1,812,895",33.6% of total reports,,,
+,,,,,
+Top 10 Categories,,,,,
+Rank,Category, # of Reports  ,% Reporting $ Loss, Total $ Loss , Median $ Loss 
+1,Imposter Scams,"853,935",21%,"$2,668M",$800 
+2,Online Shopping and Negative Reviews,"368,379",53%,$392M,$125 
+3,"Prizes, Sweepstakes and Lotteries","157,520",13%,$338M,$878 
+4,Investment Related,"107,699",75%,"$4,642M","$7,768 "
+5,Business and Job Opportunities,"107,134",32%,$491M,"$2,137 "
+6,Internet Services,"98,717",7%,$36M,$250 
+7,Telephone and Mobile Services,"94,261",11%,$19M,$206 
+8,Health Care,"71,518",7%,$17M,$300 
+9,"Travel, Vacations and Timeshare Plans","55,063",22%,$122M,"$1,187 "
+10,Foreign Money Offers and Fake Check Scams,"32,164",34%,$138M,"$1,900 "
+,,,,,
+Identity Theft Types,,,,,
+Rank, Theft Type , # of Reports ,,,
+1,Credit Card,"416,582",,,
+2,Other Identity Theft,"260,734",,,
+3,Loan or Lease,"149,771",,,
+4,Bank Account,"136,778",,,
+5,Government Documents or Benefits,"96,951",,,
+6,Employment or Tax-Related,"89,465",,,
+7,Phone or Utilities,"79,722",,,
+,,,,,
+Top 10 Other Categories,,,,,
+Rank,Category,# of Reports ,,,
+1,"Credit Bureaus, Information Furnishers and Report Users","711,802",,,
+2,Banks and Lenders,"230,224",,,
+3,Auto Related,"178,100",,,
+4,Debt Collection,"124,450",,,
+5,Credit Cards and Loss Protection,"101,427",,,
+6,"Home Repair, Improvement and Products","82,711",,,
+7,Television and Electronic Media,"39,715",,,
+8,Computer Equipment and Software,"21,245",,,
+9,"Privacy, Data Security, and Cyber Threats","16,803",,,
+10,Education,"15,601",,,
+,,,,,
+"Certain categories are comprised of subcategories that fall in both and Other report types. See Appendix B3. The rankings exclude subcategories that are not, and the Other rankings exclude subcategories that are classified as.",,,,,
+,,,,,
+"Source: Consumer Sentinel Network Data Book 2023, Federal Trade Commission",,,,,

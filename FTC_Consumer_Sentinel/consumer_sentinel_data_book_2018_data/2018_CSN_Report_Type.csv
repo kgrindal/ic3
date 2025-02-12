@@ -1,0 +1,46 @@
+Report Type,,,,,
+,,,,,
+Report Type,# of Reports,,,,
+Fraud,"1,427,563",47.7% of total reports,,,
+Identity Theft,"444,602",14.8% of total reports,,,
+Other,"1,125,354",37.6% of total reports,,,
+,,,,,
+Top 10 Fraud Categories,,,,,
+Rank,Category, # of Reports  ,% Reporting $ Loss, Total $ Loss , Median $ Loss 
+1,Imposter Scams,"535,417",18%,$488M,$500 
+2,Telephone and Mobile Services,"164,693",5%,$20M,$200 
+3,Shop-at-Home and Catalog Sales,"142,929",67%,$107M,$155 
+4,"Prizes, Sweepstakes and Lotteries","132,470",10%,$118M,$530 
+5,Internet Services,"57,907",28%,$36M,$139 
+6,"Travel, Vacations and Timeshare Plans","28,353",40%,$68M,$800 
+7,Foreign Money Offers and Counterfeit Check Scams,"27,443",34%,$42M,"$1,214 "
+8,Business and Job Opportunities,"24,620",42%,$116M,"$1,304 "
+9,Advance Payments for Credit Services,"19,575",77%,$23M,$376 
+10,Health Care,"17,069",46%,$4M,$130 
+,,,,,
+Identity Theft Types,,,,,
+Rank, Theft Type , # of Reports ,,,
+1,Credit Card Fraud,"157,688",,,
+2,Other Identity Theft,"122,499",,,
+3,Employment or Tax-Related Fraud,"67,374",,,
+4,Phone or Utilities Fraud,"63,563",,,
+5,Bank Fraud,"52,529",,,
+6,Loan or Lease Fraud,"51,856",,,
+7,Government Documents or Benefits Fraud,"24,854",,,
+,,,,,
+Other Categories,,,,,
+Rank,Category,# of Reports,,,
+1,Debt Collection,"475,517",,,
+2,Banks and Lenders,"138,134",,,
+3,"Credit Bureaus, Information Furnishers and Report Users","136,748",,,
+4,Auto Related,"104,604",,,
+5,Credit Cards,"51,129",,,
+6,Television and Electronic Media,"38,336",,,
+7,Computer Equipment and Software,"18,350",,,
+8,Education,"14,242",,,
+9,"Home Repair, Improvement and Products","11,331",,,
+10,Funeral Services,964,,,
+,,,,,
+Certain Fraud categories are comprised of subcategories that fall in both Fraud and Other report types. See Appendix B3. The Fraud rankings exclude subcategories that are not fraud.,,,,,
+,,,,,
+"Source: Consumer Sentinel Network Data Book 2018, Federal Trade Commission",,,,,

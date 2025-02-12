@@ -1,0 +1,36 @@
+Identity Theft Reports by Type,,,
+,,,
+Theft Type,Theft Subtype,Number of Reports,Percentage Difference From Previous Year
+Bank Fraud,"Debit Cards, Electronic Funds Transfer, or ACH","23,229",19%
+Bank Fraud,New Accounts,"17,487",2%
+Bank Fraud,Existing Accounts,"12,754",24%
+Credit Card Fraud,New Accounts,"105,209",3%
+Credit Card Fraud,Existing Accounts,"34,260",20%
+Employment or Tax-Related Fraud,Tax Fraud,"62,682",-46%
+Employment or Tax-Related Fraud,Employment or Wage-Related Fraud,"21,214",23%
+Government Documents or Benefits Fraud,Government Benefits Applied For\Received,"17,793",34%
+Government Documents or Benefits Fraud,Other Government Documents Issued\Forged,"5,396",-31%
+Government Documents or Benefits Fraud,Driver's License Issued\Forged,"3,768",-14%
+Government Documents or Benefits Fraud,Passport Issued\Forged,520,-15%
+Loan or Lease Fraud,Business\Personal Loan,"11,129",3%
+Loan or Lease Fraud,Auto Loan\Lease,"9,935",43%
+Loan or Lease Fraud,Student Loan,"5,717",121%
+Loan or Lease Fraud,Real Estate Loan,"4,411",3%
+Loan or Lease Fraud,Apartment or House Rented,"3,625",39%
+Other Identity Theft,Other,"39,667",6%
+Other Identity Theft,Online Shopping or Payment Account,"8,685",43%
+Other Identity Theft,Email or Social Media,"7,645",35%
+Other Identity Theft,Medical Services,"6,805",40%
+Other Identity Theft,Evading the Law,"4,127",18%
+Other Identity Theft,Insurance,"2,952",19%
+Other Identity Theft,Securities Accounts,"1,634",18%
+Phone or Utilities Fraud,Mobile Telephone – New Accounts,"26,062",18%
+Phone or Utilities Fraud,Utilities – New Accounts,"22,064",-2%
+Phone or Utilities Fraud,Landline Telephone – New Accounts,"6,034",150%
+Phone or Utilities Fraud,Mobile Telephone – Existing Accounts,"4,675",11%
+Phone or Utilities Fraud,Landline Telephone – Existing Accounts,"1,162",109%
+Phone or Utilities Fraud,Utilities – Existing Accounts,"1,107",-5%
+,,,
+"Percentages are based on the total number of 2017 identity theft reports: 371,061. Consumers can report multiple types of identity theft. In 2017, 15% of identity theft reports included more than one type of identity theft",,,
+,,,
+"Source: Consumer Sentinel Network Data Book 2017, Federal Trade Commission",,,

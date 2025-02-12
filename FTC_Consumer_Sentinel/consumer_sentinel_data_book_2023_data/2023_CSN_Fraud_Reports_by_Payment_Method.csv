@@ -1,0 +1,18 @@
+Fraud Reports by Payment Method,,
+,,
+Payment Method,# of Reports, Total $ Loss 
+Credit Cards,"114,348",$246M
+Debit Card,"83,370",$220M
+Payment App or Service,"65,305",$210M
+Bank Transfer or Payment,"51,221","$1,860M"
+Cryptocurrency,"47,537","$1,409M"
+Wire Transfer,"42,729",$344M
+Gift Card or Reload Card,"41,632",$217M
+Cash,"13,656",$271M
+Check,"8,603",$209M
+Money Order,"3,087",$45M
+,,
+Number of Fraud Reports,"2,566,261",
+# of Reports with Payment Method,"471,488",18% of Total
+,,
+"Source: Consumer Sentinel Network Data Book 2023, Federal Trade Commission",,

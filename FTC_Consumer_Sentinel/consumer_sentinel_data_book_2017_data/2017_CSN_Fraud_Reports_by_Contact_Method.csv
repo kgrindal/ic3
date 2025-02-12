@@ -1,0 +1,15 @@
+Fraud Reports by Contact Method,,,,,
+,,,,,
+Contact Method,# of Reports,Percentage,Percentage Reporting $ Loss,Total $ Lost, Median $ Loss 
+Phone,"509,142",70%,9%," $290,229,696 ", $720 
+E-mail,"70,722",10%,34%," $101,075,093 ", $290 
+Website\Others,"59,690",8%,54%," $140,586,593 ", $300 
+Consumer Initiated Contact,"37,023",5%,69%," $65,267,768 ", $212 
+Mail,"36,262",5%,13%," $28,884,994 ", $350 
+Other,"16,923",2%,43%," $123,504,621 "," $1,100 "
+,,,,,
+,,,,,
+,,,,,
+Consumer Initiated Contact was included as part of the “other” category in prior Consumer Sentinel Network Data Books. ,,,,,
+,,,,,
+"Source: Consumer Sentinel Network Data Book 2017, Federal Trade Commission",,,,,

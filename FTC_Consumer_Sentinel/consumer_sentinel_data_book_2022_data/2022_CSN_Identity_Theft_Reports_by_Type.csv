@@ -1,0 +1,37 @@
+Identity Theft Reports by Type,,,
+,,,
+Theft Type,Theft Subtype,# of Reports,% Difference From Previous Year
+Credit Card Fraud,New Accounts ,"409,981",13%
+Credit Card Fraud,Existing Accounts ,"39,593",23%
+Bank Fraud,"Debit Cards, Electronic Funds Transfer, or ACH","37,153",12%
+Bank Fraud,Existing Accounts,"17,471",22%
+Bank Fraud,New Accounts,"110,513",32%
+Loan or Lease Fraud,Apartment or House Rented,"11,259",-15%
+Loan or Lease Fraud,Auto Loan\Lease,"60,348",-15%
+Loan or Lease Fraud,Business\Personal Loan,"76,020",-28%
+Loan or Lease Fraud,Federal Student Loan,"11,904",-35%
+Loan or Lease Fraud,Non-Federal Student Loan,"12,087",-13%
+Loan or Lease Fraud,Real Estate Loan,"8,004",-12%
+Employment or Tax-Related Fraud,Employment or Wage-Related Fraud,"26,390",10%
+Employment or Tax-Related Fraud,Tax Fraud,"78,588",-12%
+Phone or Utilities Fraud,Landline Telephone – Existing Accounts,"1,872",-13%
+Phone or Utilities Fraud,Landline Telephone – New Accounts,"9,102",-21%
+Phone or Utilities Fraud,Mobile Telephone – Existing Accounts,"6,595",21%
+Phone or Utilities Fraud,Mobile Telephone – New Accounts,"36,129",-4%
+Phone or Utilities Fraud,Utilities – Existing Accounts,"1,671",2%
+Phone or Utilities Fraud,Utilities – New Accounts,"30,684",-25%
+Government Documents or Benefits Fraud,Driver's License Issued\Forged,"7,841",42%
+Government Documents or Benefits Fraud,Government Benefits Applied For\Received,"45,300",-88%
+Government Documents or Benefits Fraud,Other Government Documents Issued\Forged,"6,840",-18%
+Government Documents or Benefits Fraud,Passport Issued\Forged,959,-14%
+Other Identity Theft,Email or Social Media,"15,619",1%
+Other Identity Theft,Evading the Law,"4,946",4%
+Other Identity Theft,Insurance,"9,027",-13%
+Other Identity Theft,Medical Services,"27,820",-35%
+Other Identity Theft,Online Shopping or Payment Account,"17,750",16%
+Other Identity Theft,Other,"263,419",-12%
+Other Identity Theft,Securities Accounts,"6,395",-25%
+,,,
+"Consumers can report multiple types of identity theft. In 2022, 15% of identity theft reports included more than one type of identity theft",,,
+,,,
+"Source: Consumer Sentinel Network Data Book 2022, Federal Trade Commission",,,

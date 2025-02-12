@@ -1,0 +1,46 @@
+Report Type,,,,,
+,,,,,
+Report Type,# of Reports,,,,
+Fraud,"2,369,527",46.0% of total reports,,,
+Identity Theft,"1,108,609",21.5% of total reports,,,
+Other,"1,694,993",32.9% of total reports,,,
+,,,,,
+Top 10 Fraud Categories,,,,,
+Rank,Category, # of Reports  ,% Reporting $ Loss, Total $ Loss , Median $ Loss 
+1,Imposter Scams,"725,989",22%,"$2,667M","$1,000 "
+2,Online Shopping and Negative Reviews,"327,000",47%,$358M,$180 
+3,"Prizes, Sweepstakes and Lotteries","143,132",13%,$302M,$907 
+4,Investment Related,"104,703",74%,"$3,820M","$5,000 "
+5,Business and Job Opportunities,"92,723",32%,$367M,"$2,000 "
+6,Internet Services,"90,748",5%,$29M,$300 
+7,Telephone and Mobile Services,"89,288",9%,$21M,$200 
+8,Health Care,"68,496",7%,$17M,$258 
+9,"Travel, Vacations and Timeshare Plans","62,445",17%,$104M,"$1,259 "
+10,Foreign Money Offers and Fake Check Scams,"40,903",32%,$124M,"$2,000 "
+,,,,,
+Identity Theft Types,,,,,
+Rank, Theft Type , # of Reports ,,,
+1,Credit Card Fraud,"441,822",,,
+2,Other Identity Theft,"326,590",,,
+3,Bank Fraud,"156,099",,,
+4,Loan or Lease Fraud,"153,547",,,
+5,Employment or Tax-Related Fraud,"103,402",,,
+6,Phone or Utilities Fraud,"77,284",,,
+7,Government Documents or Benefits Fraud,"57,877",,,
+,,,,,
+Top 10 Other Categories,,,,,
+Rank,Category,# of Reports ,,,
+1,"Credit Bureaus, Information Furnishers and Report Users","691,142",,,
+2,Banks and Lenders,"249,126",,,
+3,Auto Related,"162,040",,,
+4,Debt Collection,"112,827",,,
+5,Credit Cards,"87,451",,,
+6,"Home Repair, Improvement and Products","82,482",,,
+7,Television and Electronic Media,"35,515",,,
+8,Education,"19,690",,,
+9,"Privacy, Data Security, and Cyber Threats","19,256",,,
+10,Computer Equipment and Software,"16,912",,,
+,,,,,
+"Certain categories are comprised of subcategories that fall in both Fraud and Other report types. See Appendix B3. The Fraud rankings exclude subcategories that are not fraud, and the Other rankings exclude subcategories that are classified as fraud.",,,,,
+,,,,,
+"Source: Consumer Sentinel Network Data Book 2022, Federal Trade Commission",,,,,

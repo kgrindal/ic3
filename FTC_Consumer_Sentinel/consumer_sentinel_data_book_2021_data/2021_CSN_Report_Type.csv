@@ -1,0 +1,46 @@
+Report Type,,,,,
+,,,,,
+Report Type,# of Reports,,,,
+Fraud,"2,789,161",48.6% of total reports,,,
+Identity Theft,"1,434,676",25.0% of total reports,,,
+Other,"1,539,816",26.8% of total reports,,,
+,,,,,
+Top 10 Fraud Categories,,,,,
+Rank,Category, # of Reports  ,% Reporting $ Loss, Total $ Loss , Median $ Loss 
+1,Imposter Scams,"984,756",17%,"$2,331M","$1,000 "
+2,Online Shopping and Negative Reviews,"397,826",52%,$392M,$150 
+3,"Prizes, Sweepstakes and Lotteries","148,243",12%,$255M,$968 
+4,Internet Services,"103,501",23%,$216M,$500 
+5,Business and Job Opportunities,"103,003",25%,$206M,"$1,991 "
+6,Telephone and Mobile Services,"92,716",12%,$21M,$250 
+7,Investment Related,"78,988",73%,"$1,679M","$3,000 "
+8,Health Care,"63,333",13%,$17M,$197 
+9,"Travel, Vacations and Timeshare Plans","53,891",24%,$95M,"$1,112 "
+10,Foreign Money Offers and Fake Check Scams,"39,139",26%,$78M,"$2,000 "
+,,,,,
+Identity Theft Types,,,,,
+Rank, Theft Type , # of Reports ,,,
+1,Government Documents or Benefits Fraud,"395,948",,,
+2,Credit Card Fraud,"389,737",,,
+3,Other Identity Theft,"377,102",,,
+4,Loan or Lease Fraud,"197,914",,,
+5,Bank Fraud,"124,388",,,
+6,Employment or Tax-Related Fraud,"111,723",,,
+7,Phone or Utilities Fraud,"88,813",,,
+,,,,,
+Top 10 Other Categories,,,,,
+Rank,Category,# of Reports,,,
+1,"Credit Bureaus, Information Furnishers and Report Users","592,928",,,
+2,Banks and Lenders,"195,370",,,
+3,Debt Collection,"151,335",,,
+4,Auto Related,"137,468",,,
+5,"Home Repair, Improvement and Products","70,612",,,
+6,Credit Cards,"65,173",,,
+7,Television and Electronic Media,"41,905",,,
+8,Education,"22,810",,,
+9,"Privacy, Data Security, and Cyber Threats","18,724",,,
+10,Computer Equipment and Software,"15,701",,,
+,,,,,
+"Certain categories are comprised of subcategories that fall in both Fraud and Other report types. See Appendix B3. The Fraud rankings exclude subcategories that are not fraud, and the Other rankings exclude subcategories that are classified as fraud.",,,,,
+,,,,,
+"Source: Consumer Sentinel Network Data Book 2021, Federal Trade Commission",,,,,

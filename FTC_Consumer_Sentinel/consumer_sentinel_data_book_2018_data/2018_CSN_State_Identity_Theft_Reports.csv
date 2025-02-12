@@ -1,0 +1,371 @@
+State: Identity Theft Reports,,,
+,,,
+State,Theft Type,# of Reports,Percentage
+Alabama,Bank Fraud,579,11%
+Alabama,Credit Card Fraud,"1,655",32%
+Alabama,Employment or Tax-Related Fraud,824,16%
+Alabama,Government Documents or Benefits Fraud,227,4%
+Alabama,Loan or Lease Fraud,888,17%
+Alabama,Other Identity Theft,"1,532",29%
+Alabama,Phone or Utilities Fraud,921,18%
+Alaska,Bank Fraud,77,15%
+Alaska,Credit Card Fraud,191,38%
+Alaska,Employment or Tax-Related Fraud,78,15%
+Alaska,Government Documents or Benefits Fraud,45,9%
+Alaska,Loan or Lease Fraud,39,8%
+Alaska,Other Identity Theft,120,24%
+Alaska,Phone or Utilities Fraud,94,19%
+Arizona,Bank Fraud,"1,132",13%
+Arizona,Credit Card Fraud,"2,639",30%
+Arizona,Employment or Tax-Related Fraud,"2,093",24%
+Arizona,Government Documents or Benefits Fraud,451,5%
+Arizona,Loan or Lease Fraud,813,9%
+Arizona,Other Identity Theft,"2,289",26%
+Arizona,Phone or Utilities Fraud,"1,220",14%
+Arkansas,Bank Fraud,303,14%
+Arkansas,Credit Card Fraud,665,30%
+Arkansas,Employment or Tax-Related Fraud,424,19%
+Arkansas,Government Documents or Benefits Fraud,145,7%
+Arkansas,Loan or Lease Fraud,234,11%
+Arkansas,Other Identity Theft,522,24%
+Arkansas,Phone or Utilities Fraud,369,17%
+California,Bank Fraud,"7,599",10%
+California,Credit Card Fraud,"30,004",41%
+California,Employment or Tax-Related Fraud,"10,808",15%
+California,Government Documents or Benefits Fraud,"2,931",4%
+California,Loan or Lease Fraud,"7,478",10%
+California,Other Identity Theft,"22,075",30%
+California,Phone or Utilities Fraud,"7,702",10%
+Colorado,Bank Fraud,942,15%
+Colorado,Credit Card Fraud,"2,091",34%
+Colorado,Employment or Tax-Related Fraud,"1,272",21%
+Colorado,Government Documents or Benefits Fraud,289,5%
+Colorado,Loan or Lease Fraud,467,8%
+Colorado,Other Identity Theft,"1,264",21%
+Colorado,Phone or Utilities Fraud,"1,094",18%
+Connecticut,Bank Fraud,504,13%
+Connecticut,Credit Card Fraud,"1,556",40%
+Connecticut,Employment or Tax-Related Fraud,693,18%
+Connecticut,Government Documents or Benefits Fraud,159,4%
+Connecticut,Loan or Lease Fraud,257,7%
+Connecticut,Other Identity Theft,673,17%
+Connecticut,Phone or Utilities Fraud,817,21%
+Delaware,Bank Fraud,155,10%
+Delaware,Credit Card Fraud,528,35%
+Delaware,Employment or Tax-Related Fraud,134,9%
+Delaware,Government Documents or Benefits Fraud,59,4%
+Delaware,Loan or Lease Fraud,213,14%
+Delaware,Other Identity Theft,283,19%
+Delaware,Phone or Utilities Fraud,459,30%
+District of Columbia,Bank Fraud,148,13%
+District of Columbia,Credit Card Fraud,388,34%
+District of Columbia,Employment or Tax-Related Fraud,177,15%
+District of Columbia,Government Documents or Benefits Fraud,91,8%
+District of Columbia,Loan or Lease Fraud,152,13%
+District of Columbia,Other Identity Theft,274,24%
+District of Columbia,Phone or Utilities Fraud,210,18%
+Florida,Bank Fraud,"5,480",14%
+Florida,Credit Card Fraud,"15,867",42%
+Florida,Employment or Tax-Related Fraud,"4,352",12%
+Florida,Government Documents or Benefits Fraud,"1,951",5%
+Florida,Loan or Lease Fraud,"3,799",10%
+Florida,Other Identity Theft,"10,157",27%
+Florida,Phone or Utilities Fraud,"4,811",13%
+Georgia,Bank Fraud,"2,009",8%
+Georgia,Credit Card Fraud,"8,558",36%
+Georgia,Employment or Tax-Related Fraud,"1,868",8%
+Georgia,Government Documents or Benefits Fraud,712,3%
+Georgia,Loan or Lease Fraud,"4,835",20%
+Georgia,Other Identity Theft,"9,625",40%
+Georgia,Phone or Utilities Fraud,"3,435",14%
+Hawaii,Bank Fraud,176,17%
+Hawaii,Credit Card Fraud,425,42%
+Hawaii,Employment or Tax-Related Fraud,106,10%
+Hawaii,Government Documents or Benefits Fraud,55,5%
+Hawaii,Loan or Lease Fraud,63,6%
+Hawaii,Other Identity Theft,293,29%
+Hawaii,Phone or Utilities Fraud,90,9%
+Idaho,Bank Fraud,185,14%
+Idaho,Credit Card Fraud,423,31%
+Idaho,Employment or Tax-Related Fraud,218,16%
+Idaho,Government Documents or Benefits Fraud,57,4%
+Idaho,Loan or Lease Fraud,196,14%
+Idaho,Other Identity Theft,346,25%
+Idaho,Phone or Utilities Fraud,148,11%
+Illinois,Bank Fraud,"1,951",12%
+Illinois,Credit Card Fraud,"6,108",37%
+Illinois,Employment or Tax-Related Fraud,"2,402",15%
+Illinois,Government Documents or Benefits Fraud,880,5%
+Illinois,Loan or Lease Fraud,"2,015",12%
+Illinois,Other Identity Theft,"3,767",23%
+Illinois,Phone or Utilities Fraud,"3,110",19%
+Indiana,Bank Fraud,627,13%
+Indiana,Credit Card Fraud,"1,466",30%
+Indiana,Employment or Tax-Related Fraud,774,16%
+Indiana,Government Documents or Benefits Fraud,277,6%
+Indiana,Loan or Lease Fraud,523,11%
+Indiana,Other Identity Theft,"1,265",26%
+Indiana,Phone or Utilities Fraud,"1,001",20%
+Iowa,Bank Fraud,262,16%
+Iowa,Credit Card Fraud,633,38%
+Iowa,Employment or Tax-Related Fraud,270,16%
+Iowa,Government Documents or Benefits Fraud,94,6%
+Iowa,Loan or Lease Fraud,140,8%
+Iowa,Other Identity Theft,323,20%
+Iowa,Phone or Utilities Fraud,246,15%
+Kansas,Bank Fraud,403,19%
+Kansas,Credit Card Fraud,768,36%
+Kansas,Employment or Tax-Related Fraud,365,17%
+Kansas,Government Documents or Benefits Fraud,120,6%
+Kansas,Loan or Lease Fraud,230,11%
+Kansas,Other Identity Theft,447,21%
+Kansas,Phone or Utilities Fraud,283,13%
+Kentucky,Bank Fraud,387,15%
+Kentucky,Credit Card Fraud,876,35%
+Kentucky,Employment or Tax-Related Fraud,408,16%
+Kentucky,Government Documents or Benefits Fraud,162,6%
+Kentucky,Loan or Lease Fraud,246,10%
+Kentucky,Other Identity Theft,578,23%
+Kentucky,Phone or Utilities Fraud,431,17%
+Louisiana,Bank Fraud,504,10%
+Louisiana,Credit Card Fraud,"1,598",31%
+Louisiana,Employment or Tax-Related Fraud,692,13%
+Louisiana,Government Documents or Benefits Fraud,296,6%
+Louisiana,Loan or Lease Fraud,"1,053",20%
+Louisiana,Other Identity Theft,"1,750",34%
+Louisiana,Phone or Utilities Fraud,867,17%
+Maine,Bank Fraud,114,15%
+Maine,Credit Card Fraud,242,33%
+Maine,Employment or Tax-Related Fraud,92,12%
+Maine,Government Documents or Benefits Fraud,128,17%
+Maine,Loan or Lease Fraud,58,8%
+Maine,Other Identity Theft,144,19%
+Maine,Phone or Utilities Fraud,86,12%
+Maryland,Bank Fraud,989,11%
+Maryland,Credit Card Fraud,"3,224",37%
+Maryland,Employment or Tax-Related Fraud,"1,263",14%
+Maryland,Government Documents or Benefits Fraud,354,4%
+Maryland,Loan or Lease Fraud,975,11%
+Maryland,Other Identity Theft,"2,538",29%
+Maryland,Phone or Utilities Fraud,"1,358",16%
+Massachusetts,Bank Fraud,903,14%
+Massachusetts,Credit Card Fraud,"2,536",40%
+Massachusetts,Employment or Tax-Related Fraud,873,14%
+Massachusetts,Government Documents or Benefits Fraud,371,6%
+Massachusetts,Loan or Lease Fraud,406,6%
+Massachusetts,Other Identity Theft,"1,468",23%
+Massachusetts,Phone or Utilities Fraud,938,15%
+Michigan,Bank Fraud,"1,166",8%
+Michigan,Credit Card Fraud,"3,154",23%
+Michigan,Employment or Tax-Related Fraud,"2,048",15%
+Michigan,Government Documents or Benefits Fraud,"3,220",23%
+Michigan,Loan or Lease Fraud,952,7%
+Michigan,Other Identity Theft,"3,175",23%
+Michigan,Phone or Utilities Fraud,"2,363",17%
+Minnesota,Bank Fraud,601,15%
+Minnesota,Credit Card Fraud,"1,639",40%
+Minnesota,Employment or Tax-Related Fraud,660,16%
+Minnesota,Government Documents or Benefits Fraud,256,6%
+Minnesota,Loan or Lease Fraud,298,7%
+Minnesota,Other Identity Theft,856,21%
+Minnesota,Phone or Utilities Fraud,528,13%
+Mississippi,Bank Fraud,264,9%
+Mississippi,Credit Card Fraud,810,28%
+Mississippi,Employment or Tax-Related Fraud,605,21%
+Mississippi,Government Documents or Benefits Fraud,150,5%
+Mississippi,Loan or Lease Fraud,553,19%
+Mississippi,Other Identity Theft,936,32%
+Mississippi,Phone or Utilities Fraud,372,13%
+Missouri,Bank Fraud,836,16%
+Missouri,Credit Card Fraud,"1,647",32%
+Missouri,Employment or Tax-Related Fraud,794,15%
+Missouri,Government Documents or Benefits Fraud,315,6%
+Missouri,Loan or Lease Fraud,670,13%
+Missouri,Other Identity Theft,"1,385",27%
+Missouri,Phone or Utilities Fraud,795,15%
+Montana,Bank Fraud,83,10%
+Montana,Credit Card Fraud,263,33%
+Montana,Employment or Tax-Related Fraud,134,17%
+Montana,Government Documents or Benefits Fraud,33,4%
+Montana,Loan or Lease Fraud,47,6%
+Montana,Other Identity Theft,149,19%
+Montana,Phone or Utilities Fraud,220,28%
+Nebraska,Bank Fraud,237,19%
+Nebraska,Credit Card Fraud,418,33%
+Nebraska,Employment or Tax-Related Fraud,290,23%
+Nebraska,Government Documents or Benefits Fraud,82,6%
+Nebraska,Loan or Lease Fraud,96,7%
+Nebraska,Other Identity Theft,277,22%
+Nebraska,Phone or Utilities Fraud,125,10%
+Nevada,Bank Fraud,669,12%
+Nevada,Credit Card Fraud,"1,674",29%
+Nevada,Employment or Tax-Related Fraud,829,14%
+Nevada,Government Documents or Benefits Fraud,249,4%
+Nevada,Loan or Lease Fraud,597,10%
+Nevada,Other Identity Theft,"2,377",41%
+Nevada,Phone or Utilities Fraud,626,11%
+New Hampshire,Bank Fraud,171,11%
+New Hampshire,Credit Card Fraud,662,42%
+New Hampshire,Employment or Tax-Related Fraud,104,7%
+New Hampshire,Government Documents or Benefits Fraud,41,3%
+New Hampshire,Loan or Lease Fraud,62,4%
+New Hampshire,Other Identity Theft,251,16%
+New Hampshire,Phone or Utilities Fraud,530,34%
+New Jersey,Bank Fraud,"1,278",11%
+New Jersey,Credit Card Fraud,"5,182",46%
+New Jersey,Employment or Tax-Related Fraud,"1,324",12%
+New Jersey,Government Documents or Benefits Fraud,521,5%
+New Jersey,Loan or Lease Fraud,987,9%
+New Jersey,Other Identity Theft,"2,402",21%
+New Jersey,Phone or Utilities Fraud,"1,742",15%
+New Mexico,Bank Fraud,294,15%
+New Mexico,Credit Card Fraud,539,27%
+New Mexico,Employment or Tax-Related Fraud,426,21%
+New Mexico,Government Documents or Benefits Fraud,155,8%
+New Mexico,Loan or Lease Fraud,212,11%
+New Mexico,Other Identity Theft,489,24%
+New Mexico,Phone or Utilities Fraud,361,18%
+New York,Bank Fraud,"3,212",13%
+New York,Credit Card Fraud,"10,165",42%
+New York,Employment or Tax-Related Fraud,"3,021",12%
+New York,Government Documents or Benefits Fraud,"1,159",5%
+New York,Loan or Lease Fraud,"2,170",9%
+New York,Other Identity Theft,"5,641",23%
+New York,Phone or Utilities Fraud,"3,362",14%
+North Carolina,Bank Fraud,"1,145",10%
+North Carolina,Credit Card Fraud,"3,614",31%
+North Carolina,Employment or Tax-Related Fraud,"1,523",13%
+North Carolina,Government Documents or Benefits Fraud,430,4%
+North Carolina,Loan or Lease Fraud,"1,644",14%
+North Carolina,Other Identity Theft,"3,657",32%
+North Carolina,Phone or Utilities Fraud,"1,765",15%
+North Dakota,Bank Fraud,51,11%
+North Dakota,Credit Card Fraud,160,34%
+North Dakota,Employment or Tax-Related Fraud,74,16%
+North Dakota,Government Documents or Benefits Fraud,21,4%
+North Dakota,Loan or Lease Fraud,34,7%
+North Dakota,Other Identity Theft,89,19%
+North Dakota,Phone or Utilities Fraud,117,25%
+Ohio,Bank Fraud,"1,372",13%
+Ohio,Credit Card Fraud,"3,278",32%
+Ohio,Employment or Tax-Related Fraud,"1,456",14%
+Ohio,Government Documents or Benefits Fraud,481,5%
+Ohio,Loan or Lease Fraud,"1,145",11%
+Ohio,Other Identity Theft,"2,597",25%
+Ohio,Phone or Utilities Fraud,"1,859",18%
+Oklahoma,Bank Fraud,452,15%
+Oklahoma,Credit Card Fraud,988,32%
+Oklahoma,Employment or Tax-Related Fraud,638,21%
+Oklahoma,Government Documents or Benefits Fraud,221,7%
+Oklahoma,Loan or Lease Fraud,334,11%
+Oklahoma,Other Identity Theft,765,25%
+Oklahoma,Phone or Utilities Fraud,415,13%
+Oregon,Bank Fraud,660,16%
+Oregon,Credit Card Fraud,"1,379",33%
+Oregon,Employment or Tax-Related Fraud,736,18%
+Oregon,Government Documents or Benefits Fraud,238,6%
+Oregon,Loan or Lease Fraud,266,6%
+Oregon,Other Identity Theft,755,18%
+Oregon,Phone or Utilities Fraud,893,21%
+Pennsylvania,Bank Fraud,"1,680",12%
+Pennsylvania,Credit Card Fraud,"5,056",37%
+Pennsylvania,Employment or Tax-Related Fraud,"1,614",12%
+Pennsylvania,Government Documents or Benefits Fraud,698,5%
+Pennsylvania,Loan or Lease Fraud,"1,312",10%
+Pennsylvania,Other Identity Theft,"3,559",26%
+Pennsylvania,Phone or Utilities Fraud,"2,829",21%
+Puerto Rico,Bank Fraud,69,4%
+Puerto Rico,Credit Card Fraud,415,24%
+Puerto Rico,Employment or Tax-Related Fraud,639,37%
+Puerto Rico,Government Documents or Benefits Fraud,110,6%
+Puerto Rico,Loan or Lease Fraud,120,7%
+Puerto Rico,Other Identity Theft,265,15%
+Puerto Rico,Phone or Utilities Fraud,324,19%
+Rhode Island,Bank Fraud,140,14%
+Rhode Island,Credit Card Fraud,381,38%
+Rhode Island,Employment or Tax-Related Fraud,101,10%
+Rhode Island,Government Documents or Benefits Fraud,65,7%
+Rhode Island,Loan or Lease Fraud,109,11%
+Rhode Island,Other Identity Theft,233,24%
+Rhode Island,Phone or Utilities Fraud,170,17%
+South Carolina,Bank Fraud,701,11%
+South Carolina,Credit Card Fraud,"1,874",30%
+South Carolina,Employment or Tax-Related Fraud,549,9%
+South Carolina,Government Documents or Benefits Fraud,272,4%
+South Carolina,Loan or Lease Fraud,"1,118",18%
+South Carolina,Other Identity Theft,"2,292",36%
+South Carolina,Phone or Utilities Fraud,"1,096",17%
+South Dakota,Bank Fraud,73,15%
+South Dakota,Credit Card Fraud,157,32%
+South Dakota,Employment or Tax-Related Fraud,76,16%
+South Dakota,Government Documents or Benefits Fraud,24,5%
+South Dakota,Loan or Lease Fraud,34,7%
+South Dakota,Other Identity Theft,76,16%
+South Dakota,Phone or Utilities Fraud,115,24%
+Tennessee,Bank Fraud,869,13%
+Tennessee,Credit Card Fraud,"2,244",33%
+Tennessee,Employment or Tax-Related Fraud,987,14%
+Tennessee,Government Documents or Benefits Fraud,341,5%
+Tennessee,Loan or Lease Fraud,927,14%
+Tennessee,Other Identity Theft,"2,158",32%
+Tennessee,Phone or Utilities Fraud,820,12%
+Texas,Bank Fraud,"4,715",10%
+Texas,Credit Card Fraud,"14,921",33%
+Texas,Employment or Tax-Related Fraud,"7,445",17%
+Texas,Government Documents or Benefits Fraud,"2,740",6%
+Texas,Loan or Lease Fraud,"8,524",19%
+Texas,Other Identity Theft,"11,900",26%
+Texas,Phone or Utilities Fraud,"6,363",14%
+Utah,Bank Fraud,347,12%
+Utah,Credit Card Fraud,932,32%
+Utah,Employment or Tax-Related Fraud,602,21%
+Utah,Government Documents or Benefits Fraud,104,4%
+Utah,Loan or Lease Fraud,445,15%
+Utah,Other Identity Theft,742,25%
+Utah,Phone or Utilities Fraud,303,10%
+Vermont,Bank Fraud,54,17%
+Vermont,Credit Card Fraud,123,39%
+Vermont,Employment or Tax-Related Fraud,42,13%
+Vermont,Government Documents or Benefits Fraud,18,6%
+Vermont,Loan or Lease Fraud,25,8%
+Vermont,Other Identity Theft,59,19%
+Vermont,Phone or Utilities Fraud,51,16%
+Virginia,Bank Fraud,"1,135",14%
+Virginia,Credit Card Fraud,"2,968",36%
+Virginia,Employment or Tax-Related Fraud,"1,038",13%
+Virginia,Government Documents or Benefits Fraud,336,4%
+Virginia,Loan or Lease Fraud,996,12%
+Virginia,Other Identity Theft,"2,312",28%
+Virginia,Phone or Utilities Fraud,"1,179",14%
+Washington,Bank Fraud,"1,501",20%
+Washington,Credit Card Fraud,"2,722",37%
+Washington,Employment or Tax-Related Fraud,"1,261",17%
+Washington,Government Documents or Benefits Fraud,496,7%
+Washington,Loan or Lease Fraud,506,7%
+Washington,Other Identity Theft,"1,572",21%
+Washington,Phone or Utilities Fraud,892,12%
+West Virginia,Bank Fraud,155,15%
+West Virginia,Credit Card Fraud,342,33%
+West Virginia,Employment or Tax-Related Fraud,171,16%
+West Virginia,Government Documents or Benefits Fraud,67,6%
+West Virginia,Loan or Lease Fraud,85,8%
+West Virginia,Other Identity Theft,229,22%
+West Virginia,Phone or Utilities Fraud,201,19%
+Wisconsin,Bank Fraud,503,13%
+Wisconsin,Credit Card Fraud,"1,191",32%
+Wisconsin,Employment or Tax-Related Fraud,756,20%
+Wisconsin,Government Documents or Benefits Fraud,247,7%
+Wisconsin,Loan or Lease Fraud,330,9%
+Wisconsin,Other Identity Theft,881,24%
+Wisconsin,Phone or Utilities Fraud,479,13%
+Wyoming,Bank Fraud,46,14%
+Wyoming,Credit Card Fraud,106,31%
+Wyoming,Employment or Tax-Related Fraud,52,15%
+Wyoming,Government Documents or Benefits Fraud,18,5%
+Wyoming,Loan or Lease Fraud,29,9%
+Wyoming,Other Identity Theft,85,25%
+Wyoming,Phone or Utilities Fraud,57,17%
+,,,
+Percentages are based on the total number of 2018 Identity Theft reports from the corresponding state's consumers. Consumers can report multiple types of identity theft.,,,
+,,,
+"Source: Consumer Sentinel Network Data Book 2018, Federal Trade Commission",,,

@@ -1,0 +1,46 @@
+Report Type,,,,,
+,,,,,
+Report Type,# of Reports,,,,
+Fraud,"2,184,531",46.3% of total reports,,,
+Identity Theft,"1,387,615",29.4% of total reports,,,
+Other,"1,200,602",25.4% of total reports,,,
+,,,,,
+Top 10 Fraud Categories,,,,,
+Rank,Category, # of Reports  ,% Reporting $ Loss, Total $ Loss , Median $ Loss 
+1,Imposter Scams,"498,278",22%,"$1,190M",$850 
+2,Online Shopping and Negative Reviews,"352,805",70%,$246M,$100 
+3,Internet Services,"123,749",39%,$170M,$210 
+4,"Prizes, Sweepstakes and Lotteries","116,205",10%,$166M,"$1,000 "
+5,Telephone and Mobile Services,"81,221",22%,$32M,$225 
+6,"Travel, Vacations and Timeshare Plans","73,388",53%,$175M,"$1,100 "
+7,Business and Job Opportunities,"58,263",38%,$168M,"$1,950 "
+8,Health Care,"49,821",39%,$21M,$134 
+9,Foreign Money Offers and Fake Check Scams,"38,420",23%,$46M,"$1,980 "
+10,Investment Related,"24,647",78%,$387M,"$1,566 "
+,,,,,
+Identity Theft Types,,,,,
+Rank, Theft Type , # of Reports ,,,
+1,Government Documents or Benefits Fraud,"406,375",,,
+2,Credit Card Fraud,"393,207",,,
+3,Other Identity Theft,"353,152",,,
+4,Loan or Lease Fraud,"204,967",,,
+5,Employment or Tax-Related Fraud,"113,529",,,
+6,Phone or Utilities Fraud,"99,539",,,
+7,Bank Fraud,"89,476",,,
+,,,,,
+Top 10 Other Categories,,,,,
+Rank,Category,# of Reports,,,
+1,"Credit Bureaus, Information Furnishers and Report Users","316,521",,,
+2,Banks and Lenders,"170,958",,,
+3,Auto Related,"120,474",,,
+4,Debt Collection,"120,190",,,
+5,Credit Cards,"66,090",,,
+6,"Home Repair, Improvement and Products","52,555",,,
+7,Television and Electronic Media,"41,079",,,
+8,Education,"26,872",,,
+9,Computer Equipment and Software,"21,306",,,
+10,"Privacy, Data Security, and Cyber Threats","4,548",,,
+,,,,,
+"Certain categories are comprised of subcategories that fall in both Fraud and Other report types. See Appendix B3. The Fraud rankings exclude subcategories that are not fraud, and the Other rankings exclude subcategories that are classified as fraud.",,,,,
+,,,,,
+"Source: Consumer Sentinel Network Data Book 2020, Federal Trade Commission",,,,,

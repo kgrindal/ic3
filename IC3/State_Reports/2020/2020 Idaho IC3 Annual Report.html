@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" style="--select-height: 281px;"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><style type="text/css">:root{--toastify-color-light: #fff;--toastify-color-dark: #121212;--toastify-color-info: #3498db;--toastify-color-success: #07bc0c;--toastify-color-warning: #f1c40f;--toastify-color-error: hsl(6, 78%, 57%);--toastify-color-transparent: rgba(255, 255, 255, .7);--toastify-icon-color-info: var(--toastify-color-info);--toastify-icon-color-success: var(--toastify-color-success);--toastify-icon-color-warning: var(--toastify-color-warning);--toastify-icon-color-error: var(--toastify-color-error);--toastify-container-width: fit-content;--toastify-toast-width: 320px;--toastify-toast-offset: 16px;--toastify-toast-top: max(var(--toastify-toast-offset), env(safe-area-inset-top));--toastify-toast-right: max(var(--toastify-toast-offset), env(safe-area-inset-right));--toastify-toast-left: max(var(--toastify-toast-offset), env(safe-area-inset-left));--toastify-toast-bottom: max(var(--toastify-toast-offset), env(safe-area-inset-bottom));--toastify-toast-background: #fff;--toastify-toast-padding: 14px;--toastify-toast-min-height: 64px;--toastify-toast-max-height: 800px;--toastify-toast-bd-radius: 6px;--toastify-toast-shadow: 0px 4px 12px rgba(0, 0, 0, .1);--toastify-font-family: sans-serif;--toastify-z-index: 9999;--toastify-text-color-light: #757575;--toastify-text-color-dark: #fff;--toastify-text-color-info: #fff;--toastify-text-color-success: #fff;--toastify-text-color-warning: #fff;--toastify-text-color-error: #fff;--toastify-spinner-color: #616161;--toastify-spinner-color-empty-area: #e0e0e0;--toastify-color-progress-light: linear-gradient(to right, #4cd964, #5ac8fa, #007aff, #34aadc, #5856d6, #ff2d55);--toastify-color-progress-dark: #bb86fc;--toastify-color-progress-info: var(--toastify-color-info);--toastify-color-progress-success: var(--toastify-color-success);--toastify-color-progress-warning: var(--toastify-color-warning);--toastify-color-progress-error: var(--toastify-color-error);--toastify-color-progress-bgo: .2}.Toastify__toast-container{z-index:var(--toastify-z-index);-webkit-transform:translate3d(0,0,var(--toastify-z-index));position:fixed;width:var(--toastify-container-width);box-sizing:border-box;color:#fff;display:flex;flex-direction:column}.Toastify__toast-container--top-left{top:var(--toastify-toast-top);left:var(--toastify-toast-left)}.Toastify__toast-container--top-center{top:var(--toastify-toast-top);left:50%;transform:translate(-50%);align-items:center}.Toastify__toast-container--top-right{top:var(--toastify-toast-top);right:var(--toastify-toast-right);align-items:end}.Toastify__toast-container--bottom-left{bottom:var(--toastify-toast-bottom);left:var(--toastify-toast-left)}.Toastify__toast-container--bottom-center{bottom:var(--toastify-toast-bottom);left:50%;transform:translate(-50%);align-items:center}.Toastify__toast-container--bottom-right{bottom:var(--toastify-toast-bottom);right:var(--toastify-toast-right);align-items:end}@media only screen and (max-width: 480px){.Toastify__toast-container{width:100vw;left:env(safe-area-inset-left);margin:0}.Toastify__toast-container--top-left,.Toastify__toast-container--top-center,.Toastify__toast-container--top-right{top:env(safe-area-inset-top);transform:translate(0)}.Toastify__toast-container--bottom-left,.Toastify__toast-container--bottom-center,.Toastify__toast-container--bottom-right{bottom:env(safe-area-inset-bottom);transform:translate(0)}.Toastify__toast-container--rtl{right:env(safe-area-inset-right);left:initial}.Toastify__toast{--toastify-toast-width: 100%;margin-bottom:0;border-radius:0}}.Toastify__toast{--y: 0;position:relative;touch-action:none;width:var(--toastify-toast-width);min-height:var(--toastify-toast-min-height);box-sizing:border-box;margin-bottom:1rem;padding:var(--toastify-toast-padding);border-radius:var(--toastify-toast-bd-radius);box-shadow:var(--toastify-toast-shadow);max-height:var(--toastify-toast-max-height);font-family:var(--toastify-font-family);z-index:0;display:flex;flex:1 auto;align-items:center;word-break:break-word}.Toastify__toast-container[data-stacked=true]{width:var(--toastify-toast-width)}.Toastify__toast--stacked{position:absolute;width:100%;transform:translate3d(0,var(--y),0) scale(var(--s));transition:transform .3s}.Toastify__toast--stacked[data-collapsed] .Toastify__toast-body,.Toastify__toast--stacked[data-collapsed] .Toastify__close-button{transition:opacity .1s}.Toastify__toast--stacked[data-collapsed=false]{overflow:visible}.Toastify__toast--stacked[data-collapsed=true]:not(:last-child)>*{opacity:0}.Toastify__toast--stacked:after{content:"";position:absolute;left:0;right:0;height:calc(var(--g) * 1px);bottom:100%}.Toastify__toast--stacked[data-pos=top]{top:0}.Toastify__toast--stacked[data-pos=bot]{bottom:0}.Toastify__toast--stacked[data-pos=bot].Toastify__toast--stacked:before{transform-origin:top}.Toastify__toast--stacked[data-pos=top].Toastify__toast--stacked:before{transform-origin:bottom}.Toastify__toast--stacked:before{content:"";position:absolute;left:0;right:0;bottom:0;height:100%;transform:scaleY(3);z-index:-1}.Toastify__toast--rtl{direction:rtl}.Toastify__toast--close-on-click{cursor:pointer}.Toastify__toast-icon{margin-inline-end:10px;width:22px;flex-shrink:0;display:flex}.Toastify--animate{animation-fill-mode:both;animation-duration:.5s}.Toastify--animate-icon{animation-fill-mode:both;animation-duration:.3s}.Toastify__toast-theme--dark{background:var(--toastify-color-dark);color:var(--toastify-text-color-dark)}.Toastify__toast-theme--light,.Toastify__toast-theme--colored.Toastify__toast--default{background:var(--toastify-color-light);color:var(--toastify-text-color-light)}.Toastify__toast-theme--colored.Toastify__toast--info{color:var(--toastify-text-color-info);background:var(--toastify-color-info)}.Toastify__toast-theme--colored.Toastify__toast--success{color:var(--toastify-text-color-success);background:var(--toastify-color-success)}.Toastify__toast-theme--colored.Toastify__toast--warning{color:var(--toastify-text-color-warning);background:var(--toastify-color-warning)}.Toastify__toast-theme--colored.Toastify__toast--error{color:var(--toastify-text-color-error);background:var(--toastify-color-error)}.Toastify__progress-bar-theme--light{background:var(--toastify-color-progress-light)}.Toastify__progress-bar-theme--dark{background:var(--toastify-color-progress-dark)}.Toastify__progress-bar--info{background:var(--toastify-color-progress-info)}.Toastify__progress-bar--success{background:var(--toastify-color-progress-success)}.Toastify__progress-bar--warning{background:var(--toastify-color-progress-warning)}.Toastify__progress-bar--error{background:var(--toastify-color-progress-error)}.Toastify__progress-bar-theme--colored.Toastify__progress-bar--info,.Toastify__progress-bar-theme--colored.Toastify__progress-bar--success,.Toastify__progress-bar-theme--colored.Toastify__progress-bar--warning,.Toastify__progress-bar-theme--colored.Toastify__progress-bar--error{background:var(--toastify-color-transparent)}.Toastify__close-button{color:#fff;position:absolute;top:6px;right:6px;background:transparent;outline:none;border:none;padding:0;cursor:pointer;opacity:.7;transition:.3s ease;z-index:1}.Toastify__toast--rtl .Toastify__close-button{left:6px;right:unset}.Toastify__close-button--light{color:#000;opacity:.3}.Toastify__close-button>svg{fill:currentColor;height:16px;width:14px}.Toastify__close-button:hover,.Toastify__close-button:focus{opacity:1}@keyframes Toastify__trackProgress{0%{transform:scaleX(1)}to{transform:scaleX(0)}}.Toastify__progress-bar{position:absolute;bottom:0;left:0;width:100%;height:100%;z-index:1;opacity:.7;transform-origin:left}.Toastify__progress-bar--animated{animation:Toastify__trackProgress linear 1 forwards}.Toastify__progress-bar--controlled{transition:transform .2s}.Toastify__progress-bar--rtl{right:0;left:initial;transform-origin:right;border-bottom-left-radius:initial}.Toastify__progress-bar--wrp{position:absolute;overflow:hidden;bottom:0;left:0;width:100%;height:5px;border-bottom-left-radius:var(--toastify-toast-bd-radius);border-bottom-right-radius:var(--toastify-toast-bd-radius)}.Toastify__progress-bar--wrp[data-hidden=true]{opacity:0}.Toastify__progress-bar--bg{opacity:var(--toastify-color-progress-bgo);width:100%;height:100%}.Toastify__spinner{width:20px;height:20px;box-sizing:border-box;border:2px solid;border-radius:100%;border-color:var(--toastify-spinner-color-empty-area);border-right-color:var(--toastify-spinner-color);animation:Toastify__spin .65s linear infinite}@keyframes Toastify__bounceInRight{0%,60%,75%,90%,to{animation-timing-function:cubic-bezier(.215,.61,.355,1)}0%{opacity:0;transform:translate3d(3000px,0,0)}60%{opacity:1;transform:translate3d(-25px,0,0)}75%{transform:translate3d(10px,0,0)}90%{transform:translate3d(-5px,0,0)}to{transform:none}}@keyframes Toastify__bounceOutRight{20%{opacity:1;transform:translate3d(-20px,var(--y),0)}to{opacity:0;transform:translate3d(2000px,var(--y),0)}}@keyframes Toastify__bounceInLeft{0%,60%,75%,90%,to{animation-timing-function:cubic-bezier(.215,.61,.355,1)}0%{opacity:0;transform:translate3d(-3000px,0,0)}60%{opacity:1;transform:translate3d(25px,0,0)}75%{transform:translate3d(-10px,0,0)}90%{transform:translate3d(5px,0,0)}to{transform:none}}@keyframes Toastify__bounceOutLeft{20%{opacity:1;transform:translate3d(20px,var(--y),0)}to{opacity:0;transform:translate3d(-2000px,var(--y),0)}}@keyframes Toastify__bounceInUp{0%,60%,75%,90%,to{animation-timing-function:cubic-bezier(.215,.61,.355,1)}0%{opacity:0;transform:translate3d(0,3000px,0)}60%{opacity:1;transform:translate3d(0,-20px,0)}75%{transform:translate3d(0,10px,0)}90%{transform:translate3d(0,-5px,0)}to{transform:translateZ(0)}}@keyframes Toastify__bounceOutUp{20%{transform:translate3d(0,calc(var(--y) - 10px),0)}40%,45%{opacity:1;transform:translate3d(0,calc(var(--y) + 20px),0)}to{opacity:0;transform:translate3d(0,-2000px,0)}}@keyframes Toastify__bounceInDown{0%,60%,75%,90%,to{animation-timing-function:cubic-bezier(.215,.61,.355,1)}0%{opacity:0;transform:translate3d(0,-3000px,0)}60%{opacity:1;transform:translate3d(0,25px,0)}75%{transform:translate3d(0,-10px,0)}90%{transform:translate3d(0,5px,0)}to{transform:none}}@keyframes Toastify__bounceOutDown{20%{transform:translate3d(0,calc(var(--y) - 10px),0)}40%,45%{opacity:1;transform:translate3d(0,calc(var(--y) + 20px),0)}to{opacity:0;transform:translate3d(0,2000px,0)}}.Toastify__bounce-enter--top-left,.Toastify__bounce-enter--bottom-left{animation-name:Toastify__bounceInLeft}.Toastify__bounce-enter--top-right,.Toastify__bounce-enter--bottom-right{animation-name:Toastify__bounceInRight}.Toastify__bounce-enter--top-center{animation-name:Toastify__bounceInDown}.Toastify__bounce-enter--bottom-center{animation-name:Toastify__bounceInUp}.Toastify__bounce-exit--top-left,.Toastify__bounce-exit--bottom-left{animation-name:Toastify__bounceOutLeft}.Toastify__bounce-exit--top-right,.Toastify__bounce-exit--bottom-right{animation-name:Toastify__bounceOutRight}.Toastify__bounce-exit--top-center{animation-name:Toastify__bounceOutUp}.Toastify__bounce-exit--bottom-center{animation-name:Toastify__bounceOutDown}@keyframes Toastify__zoomIn{0%{opacity:0;transform:scale3d(.3,.3,.3)}50%{opacity:1}}@keyframes Toastify__zoomOut{0%{opacity:1}50%{opacity:0;transform:translate3d(0,var(--y),0) scale3d(.3,.3,.3)}to{opacity:0}}.Toastify__zoom-enter{animation-name:Toastify__zoomIn}.Toastify__zoom-exit{animation-name:Toastify__zoomOut}@keyframes Toastify__flipIn{0%{transform:perspective(400px) rotateX(90deg);animation-timing-function:ease-in;opacity:0}40%{transform:perspective(400px) rotateX(-20deg);animation-timing-function:ease-in}60%{transform:perspective(400px) rotateX(10deg);opacity:1}80%{transform:perspective(400px) rotateX(-5deg)}to{transform:perspective(400px)}}@keyframes Toastify__flipOut{0%{transform:translate3d(0,var(--y),0) perspective(400px)}30%{transform:translate3d(0,var(--y),0) perspective(400px) rotateX(-20deg);opacity:1}to{transform:translate3d(0,var(--y),0) perspective(400px) rotateX(90deg);opacity:0}}.Toastify__flip-enter{animation-name:Toastify__flipIn}.Toastify__flip-exit{animation-name:Toastify__flipOut}@keyframes Toastify__slideInRight{0%{transform:translate3d(110%,0,0);visibility:visible}to{transform:translate3d(0,var(--y),0)}}@keyframes Toastify__slideInLeft{0%{transform:translate3d(-110%,0,0);visibility:visible}to{transform:translate3d(0,var(--y),0)}}@keyframes Toastify__slideInUp{0%{transform:translate3d(0,110%,0);visibility:visible}to{transform:translate3d(0,var(--y),0)}}@keyframes Toastify__slideInDown{0%{transform:translate3d(0,-110%,0);visibility:visible}to{transform:translate3d(0,var(--y),0)}}@keyframes Toastify__slideOutRight{0%{transform:translate3d(0,var(--y),0)}to{visibility:hidden;transform:translate3d(110%,var(--y),0)}}@keyframes Toastify__slideOutLeft{0%{transform:translate3d(0,var(--y),0)}to{visibility:hidden;transform:translate3d(-110%,var(--y),0)}}@keyframes Toastify__slideOutDown{0%{transform:translate3d(0,var(--y),0)}to{visibility:hidden;transform:translate3d(0,500px,0)}}@keyframes Toastify__slideOutUp{0%{transform:translate3d(0,var(--y),0)}to{visibility:hidden;transform:translate3d(0,-500px,0)}}.Toastify__slide-enter--top-left,.Toastify__slide-enter--bottom-left{animation-name:Toastify__slideInLeft}.Toastify__slide-enter--top-right,.Toastify__slide-enter--bottom-right{animation-name:Toastify__slideInRight}.Toastify__slide-enter--top-center{animation-name:Toastify__slideInDown}.Toastify__slide-enter--bottom-center{animation-name:Toastify__slideInUp}.Toastify__slide-exit--top-left,.Toastify__slide-exit--bottom-left{animation-name:Toastify__slideOutLeft;animation-timing-function:ease-in;animation-duration:.3s}.Toastify__slide-exit--top-right,.Toastify__slide-exit--bottom-right{animation-name:Toastify__slideOutRight;animation-timing-function:ease-in;animation-duration:.3s}.Toastify__slide-exit--top-center{animation-name:Toastify__slideOutUp;animation-timing-function:ease-in;animation-duration:.3s}.Toastify__slide-exit--bottom-center{animation-name:Toastify__slideOutDown;animation-timing-function:ease-in;animation-duration:.3s}@keyframes Toastify__spin{0%{transform:rotate(0)}to{transform:rotate(360deg)}}
+</style><title>2020 Idaho IC3 Annual Report</title><link rel="stylesheet" media="all" type="text/css" href="2020%20Idaho%20IC3%20Annual%20Report_files/site.css">
+    <script type="module" src="2020%20Idaho%20IC3%20Annual%20Report_files/state.js"></script>
+</head>
+<body>
+    <div>
+        <form action="" method="get">
+            <header><div id="modal" hidden=""></div>
+                <div id="header">
+                    <span>Select a state:</span>
+                    <select name="s" size="10" style="position: fixed; top: 0px;" role="dialog" aria-label="Select a state. Press Enter or Space to select an option." aria-modal="true" class="hide">
+                        <option value="1">Alabama</option><option value="2">Alaska</option><option value="3">American Samoa</option><option value="4">Arizona</option><option value="5">Arkansas</option><option value="6">California</option><option value="7">Colorado</option><option value="8">Connecticut</option><option value="9">Delaware</option><option value="10">District of Columbia</option><option value="11">Florida</option><option value="12">Georgia</option><option value="13">Guam</option><option value="14">Hawaii</option><option value="15" selected="selected">Idaho</option><option value="16">Illinois</option><option value="17">Indiana</option><option value="18">Iowa</option><option value="19">Kansas</option><option value="20">Kentucky</option><option value="21">Louisiana</option><option value="22">Maine</option><option value="23">Maryland</option><option value="24">Massachusetts</option><option value="25">Michigan</option><option value="26">Minnesota</option><option value="27">Mississippi</option><option value="28">Missouri</option><option value="29">Montana</option><option value="30">Nebraska</option><option value="31">Nevada</option><option value="32">New Hampshire</option><option value="33">New Jersey</option><option value="34">New Mexico</option><option value="35">New York</option><option value="36">North Carolina</option><option value="37">North Dakota</option><option value="38">Northern Mariana Islands</option><option value="39">Ohio</option><option value="40">Oklahoma</option><option value="41">Oregon</option><option value="42">Pennsylvania</option><option value="43">Puerto Rico</option><option value="44">Rhode Island</option><option value="45">South Carolina</option><option value="46">South Dakota</option><option value="47">Tennessee</option><option value="48">Texas</option><option value="49">United States Minor Outlying Islands</option><option value="50">Utah</option><option value="51">Vermont</option><option value="52">Virgin Islands</option><option value="53">Virginia</option><option value="54">Washington</option><option value="55">West Virginia</option><option value="56">Wisconsin</option><option value="57">Wyoming</option>
+                    </select>
+                    
+                <button class="flat"><span>Idaho</span></button></div>
+            </header>
+        </form>
+        
+            <article>
+                <div>
+                    <a href="https://www.ic3.gov/AnnualReport/Reports/2020State/StateChart.aspx?s=15&amp;t=5"><img alt="Display a graphical version of the following table - Crime Type by Victim Count" src="2020%20Idaho%20IC3%20Annual%20Report_files/ic_assessment_black_24dp.png" height="48" width="48"></a>
+                    <table class="crimetype">
+                        <caption>Crime Type by Victim Count</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col">Crime Type</th>
+                                <th scope="col">Victim Count</th>
+                                <th scope="col">Crime Type</th>
+                                <th scope="col">Victim Count</th>
+                            </tr>
+                        </thead>
+                        <tbody><tr><td>Advanced Fee</td><td>67</td><td>Identity Theft</td><td>107</td></tr>
+<tr><td>BEC/EAC</td><td>78</td><td>Investment</td><td>27</td></tr>
+<tr><td>Charity</td><td>0</td><td>Lottery/Sweepstakes/Inheritance</td><td>38</td></tr>
+<tr><td>Civil Matter</td><td>8</td><td>Malware/Scareware/Virus</td><td>3</td></tr>
+<tr><td>Confidence Fraud/Romance</td><td>130</td><td>Misrepresentation</td><td>0</td></tr>
+<tr><td>Corporate Data Breach</td><td>12</td><td>No Lead Value</td><td>141</td></tr>
+<tr><td>Credit Card Fraud</td><td>93</td><td>Non-payment/Non-Delivery</td><td>441</td></tr>
+<tr><td>Crimes Against Children</td><td>20</td><td>Other</td><td>36</td></tr>
+<tr><td>Criminal Forums</td><td>0</td><td>Overpayment</td><td>85</td></tr>
+<tr><td>Denial of Service/TDos</td><td>8</td><td>Personal Data Breach</td><td>201</td></tr>
+<tr><td>Employment</td><td>73</td><td>Phishing/Vishing/Smishing/Pharming</td><td>102</td></tr>
+<tr><td>Extortion</td><td>323</td><td>Ransomware</td><td>11</td></tr>
+<tr><td>Gambling</td><td>1</td><td>Re-shipping</td><td>1</td></tr>
+<tr><td>Government Impersonation</td><td>57</td><td>Real Estate/Rental</td><td>64</td></tr>
+<tr><td>Hacktivist</td><td>0</td><td>Spoofing</td><td>90</td></tr>
+<tr><td>Harassment/Threats of Violence</td><td>74</td><td>Tech Support</td><td>70</td></tr>
+<tr><td>Health Care Related</td><td>3</td><td>Terrorism</td><td>0</td></tr>
+<tr><td>IPR/Copyright and Counterfeit</td><td>12</td><td class="spacer">&nbsp;</td><td class="spacer">&nbsp;</td></tr>
+<tr><td colspan="4">&nbsp;</td></tr>
+<tr><td colspan="4">Descriptors*</td></tr>
+<tr><td>Social Media</td><td>162</td><td>Virtual Currency</td><td>158</td></tr>
+</tbody>
+                        <tfoot>
+                            <tr>
+                                <td colspan="4" role="note">*These 
+descriptors relate to the medium or tool used to facilitate the crime, 
+and are used by the IC3 for tracking purposes only. They are available 
+only after another crime type has been selected.</td>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </article>
+        
+
+            <article>
+                <div>
+                    <a href="https://www.ic3.gov/AnnualReport/Reports/2020State/StateChart.aspx?s=15&amp;t=6"><img alt="Display a graphical version of the following table - Crime Type by Victim Loss" src="2020%20Idaho%20IC3%20Annual%20Report_files/ic_assessment_black_24dp.png" height="48" width="48"></a>
+                    <table class="crimetype">
+                        <caption>Crime Type by Victim Loss</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col">Crime Type</th>
+                                <th scope="col">Loss Amount</th>
+                                <th scope="col">Crime Type</th>
+                                <th scope="col">Loss Amount</th>
+                            </tr>
+                        </thead>
+                        <tbody><tr><td>Advanced Fee</td><td>$289,281</td><td>Identity Theft</td><td>$363,610</td></tr>
+<tr><td>BEC/EAC</td><td>$3,032,789</td><td>Investment</td><td>$2,390,809</td></tr>
+<tr><td>Charity</td><td>$0</td><td>Lottery/Sweepstakes/Inheritance</td><td>$386,459</td></tr>
+<tr><td>Civil Matter</td><td>$1,703</td><td>Malware/Scareware/Virus</td><td>$0</td></tr>
+<tr><td>Confidence Fraud/Romance</td><td>$2,126,196</td><td>Misrepresentation</td><td>$0</td></tr>
+<tr><td>Corporate Data Breach</td><td>$21,756</td><td>No Lead Value</td><td>$0</td></tr>
+<tr><td>Credit Card Fraud</td><td>$760,075</td><td>Non-payment/Non-Delivery</td><td>$688,153</td></tr>
+<tr><td>Crimes Against Children</td><td>$0</td><td>Other</td><td>$611,280</td></tr>
+<tr><td>Criminal Forums</td><td>$0</td><td>Overpayment</td><td>$409,344</td></tr>
+<tr><td>Denial of Service/TDos</td><td>$0</td><td>Personal Data Breach</td><td>$530,439</td></tr>
+<tr><td>Employment</td><td>$278,532</td><td>Phishing/Vishing/Smishing/Pharming</td><td>$61,215</td></tr>
+<tr><td>Extortion</td><td>$62,924</td><td>Ransomware</td><td>$4,943</td></tr>
+<tr><td>Gambling</td><td>$0</td><td>Re-shipping</td><td>$0</td></tr>
+<tr><td>Government Impersonation</td><td>$407,541</td><td>Real Estate/Rental</td><td>$686,084</td></tr>
+<tr><td>Hacktivist</td><td>$0</td><td>Spoofing</td><td>$963,961</td></tr>
+<tr><td>Harassment/Threats of Violence</td><td>$2,434</td><td>Tech Support</td><td>$400,662</td></tr>
+<tr><td>Health Care Related</td><td>$51</td><td>Terrorism</td><td>$0</td></tr>
+<tr><td>IPR/Copyright and Counterfeit</td><td>$1,156</td><td class="spacer">&nbsp;</td><td class="spacer">&nbsp;</td></tr>
+<tr><td colspan="4">&nbsp;</td></tr>
+<tr><td colspan="4">Descriptors*</td></tr>
+<tr><td>Social Media</td><td>$255,207</td><td>Virtual Currency</td><td>$1,335,293</td></tr>
+</tbody>
+                        <tfoot>
+                            <tr>
+                                <td colspan="4" role="note">*These 
+descriptors relate to the medium or tool used to facilitate the crime, 
+and are used by the IC3 for tracking purposes only. They are available 
+only after another crime type has been selected.</td>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </article>
+        
+
+            <article>
+                <div>
+                    <a href="https://www.ic3.gov/AnnualReport/Reports/2020State/StateChart.aspx?s=15&amp;t=1"><img alt="Display a graphical version of the following table - Crime Type by Subject Count" src="2020%20Idaho%20IC3%20Annual%20Report_files/ic_assessment_black_24dp.png" height="48" width="48"></a>
+                    <table class="crimetype">
+                        <caption>Crime Type by Subject Count</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col">Crime Type</th>
+                                <th scope="col">Subject Count</th>
+                                <th scope="col">Crime Type</th>
+                                <th scope="col">Subject Count</th>
+                            </tr>
+                        </thead>
+                        <tbody><tr><td>Advanced Fee</td><td>14</td><td>Identity Theft</td><td>24</td></tr>
+<tr><td>BEC/EAC</td><td>10</td><td>Investment</td><td>7</td></tr>
+<tr><td>Charity</td><td>0</td><td>Lottery/Sweepstakes/Inheritance</td><td>10</td></tr>
+<tr><td>Civil Matter</td><td>6</td><td>Malware/Scareware/Virus</td><td>1</td></tr>
+<tr><td>Confidence Fraud/Romance</td><td>37</td><td>Misrepresentation</td><td>0</td></tr>
+<tr><td>Corporate Data Breach</td><td>3</td><td>No Lead Value</td><td>19</td></tr>
+<tr><td>Credit Card Fraud</td><td>24</td><td>Non-payment/Non-Delivery</td><td>140</td></tr>
+<tr><td>Crimes Against Children</td><td>3</td><td>Other</td><td>9</td></tr>
+<tr><td>Criminal Forums</td><td>0</td><td>Overpayment</td><td>18</td></tr>
+<tr><td>Denial of Service/TDos</td><td>1</td><td>Personal Data Breach</td><td>38</td></tr>
+<tr><td>Employment</td><td>18</td><td>Phishing/Vishing/Smishing/Pharming</td><td>19</td></tr>
+<tr><td>Extortion</td><td>27</td><td>Ransomware</td><td>1</td></tr>
+<tr><td>Gambling</td><td>0</td><td>Re-shipping</td><td>0</td></tr>
+<tr><td>Government Impersonation</td><td>10</td><td>Real Estate/Rental</td><td>12</td></tr>
+<tr><td>Hacktivist</td><td>0</td><td>Spoofing</td><td>25</td></tr>
+<tr><td>Harassment/Threats of Violence</td><td>24</td><td>Tech Support</td><td>16</td></tr>
+<tr><td>Health Care Related</td><td>1</td><td>Terrorism</td><td>0</td></tr>
+<tr><td>IPR/Copyright and Counterfeit</td><td>3</td><td class="spacer">&nbsp;</td><td class="spacer">&nbsp;</td></tr>
+<tr><td colspan="4">&nbsp;</td></tr>
+<tr><td colspan="4">Descriptors*</td></tr>
+<tr><td>Social Media</td><td>24</td><td>Virtual Currency</td><td>12</td></tr>
+</tbody>
+                        <tfoot>
+                            <tr>
+                                <td colspan="4" role="note">*These 
+descriptors relate to the medium or tool used to facilitate the crime, 
+and are used by the IC3 for tracking purposes only. They are available 
+only after another crime type has been selected.</td>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </article>
+        
+
+            <article>
+                <div>
+                    <a href="https://www.ic3.gov/AnnualReport/Reports/2020State/StateChart.aspx?s=15&amp;t=2"><img alt="Display a graphical version of the following table - Crime Type by Subject Loss" src="2020%20Idaho%20IC3%20Annual%20Report_files/ic_assessment_black_24dp.png" height="48" width="48"></a>
+                    <table class="crimetype">
+                        <caption>Crime Type by Subject Loss</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col">Crime Type</th>
+                                <th scope="col">Loss Amount</th>
+                                <th scope="col">Crime Type</th>
+                                <th scope="col">Loss Amount</th>
+                            </tr>
+                        </thead>
+                        <tbody><tr><td>Advanced Fee</td><td>$64,584</td><td>Identity Theft</td><td>$70,899</td></tr>
+<tr><td>BEC/EAC</td><td>$643,261</td><td>Investment</td><td>$152,962</td></tr>
+<tr><td>Charity</td><td>$0</td><td>Lottery/Sweepstakes/Inheritance</td><td>$49,577</td></tr>
+<tr><td>Civil Matter</td><td>$0</td><td>Malware/Scareware/Virus</td><td>$0</td></tr>
+<tr><td>Confidence Fraud/Romance</td><td>$1,750,354</td><td>Misrepresentation</td><td>$0</td></tr>
+<tr><td>Corporate Data Breach</td><td>$43,734</td><td>No Lead Value</td><td>$0</td></tr>
+<tr><td>Credit Card Fraud</td><td>$48,034</td><td>Non-payment/Non-Delivery</td><td>$643,928</td></tr>
+<tr><td>Crimes Against Children</td><td>$0</td><td>Other</td><td>$150</td></tr>
+<tr><td>Criminal Forums</td><td>$0</td><td>Overpayment</td><td>$40,379</td></tr>
+<tr><td>Denial of Service/TDos</td><td>$0</td><td>Personal Data Breach</td><td>$61,591</td></tr>
+<tr><td>Employment</td><td>$23,384</td><td>Phishing/Vishing/Smishing/Pharming</td><td>$4,422</td></tr>
+<tr><td>Extortion</td><td>$4,700</td><td>Ransomware</td><td>$2,000</td></tr>
+<tr><td>Gambling</td><td>$0</td><td>Re-shipping</td><td>$0</td></tr>
+<tr><td>Government Impersonation</td><td>$2,164</td><td>Real Estate/Rental</td><td>$229,816</td></tr>
+<tr><td>Hacktivist</td><td>$0</td><td>Spoofing</td><td>$26,883</td></tr>
+<tr><td>Harassment/Threats of Violence</td><td>$0</td><td>Tech Support</td><td>$40,950</td></tr>
+<tr><td>Health Care Related</td><td>$0</td><td>Terrorism</td><td>$0</td></tr>
+<tr><td>IPR/Copyright and Counterfeit</td><td>$0</td><td class="spacer">&nbsp;</td><td class="spacer">&nbsp;</td></tr>
+<tr><td colspan="4">&nbsp;</td></tr>
+<tr><td colspan="4">Descriptors*</td></tr>
+<tr><td>Social Media</td><td>$1,217,677</td><td>Virtual Currency</td><td>$33,951</td></tr>
+</tbody>
+                        <tfoot>
+                            <tr>
+                                <td colspan="4" role="note">*These 
+descriptors relate to the medium or tool used to facilitate the crime, 
+and are used by the IC3 for tracking purposes only. They are available 
+only after another crime type has been selected.</td>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+            </article>
+        
+
+        
+            <article>
+                <div class="age">
+                    <a href="https://www.ic3.gov/AnnualReport/Reports/2020State/StateChart.aspx?s=15&amp;t=7"><img alt="Display a graphical version of the following chart - Victims by Age Group" src="2020%20Idaho%20IC3%20Annual%20Report_files/ic_assessment_black_24dp.png" height="48" width="48"></a>
+                    <table>
+                        <caption>Victims by Age Group</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col">Age Range</th>
+                                <th scope="col">Count</th>
+                                <th scope="col">Amount Loss</th>
+                            </tr>
+                        </thead>
+                        <tbody><tr><th scope="row">Under 20</th><td>110</td><td>$585,786</td></tr><tr><th scope="row">20 - 29</th><td>253</td><td>$295,128</td></tr><tr><th scope="row">30 - 39</th><td>336</td><td>$1,386,831</td></tr><tr><th scope="row">40 - 49</th><td>296</td><td>$1,871,054</td></tr><tr><th scope="row">50 - 59</th><td>295</td><td>$589,013</td></tr><tr><th scope="row">Over 60</th><td>550</td><td>$4,600,473</td></tr></tbody>
+                    </table>
+                </div>
+            </article>
+        
+    </div>
+
+</body></html>

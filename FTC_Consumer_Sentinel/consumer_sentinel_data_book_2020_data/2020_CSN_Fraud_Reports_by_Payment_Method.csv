@@ -1,0 +1,22 @@
+Fraud Reports by Payment Method,,
+,,
+Payment Method,# of Reports, Total $ Loss 
+Credit Cards,"188,562",$149M
+Debit Card,"132,700",$117M
+Payment App or Service,"127,500",$87M
+Wire Transfer,"118,848",$311M
+Gift Card or Reload Card,"99,900",$124M
+Bank Transfer or Payment,"36,692",$314M
+Cash or Cash Advance,"31,370",$146M
+Cryptocurrency,"24,738",$129M
+Check,"17,304",$87M
+Money Order,"8,352",$26M
+Other,"2,662",$6M
+,,
+Number of Fraud Reports,"2,184,531",
+# of Reports with Payment Method,"373,423",17% of Total
+,,
+Other payment methods includes Payroll Allotment and Telephone Bill.,,
+"Data contributors MoneyGram International and Western Union provided a significant number of reports, which may affect the distribution of the reported methods of payment.  ",,
+,,
+"Source: Consumer Sentinel Network Data Book 2020, Federal Trade Commission",,

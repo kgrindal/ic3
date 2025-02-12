@@ -1,0 +1,17 @@
+Fraud Reports by Contact Method,,,,,
+,,,,,
+Contact Method,# of Reports,Percentage of all Fraud Reports with a Contact Method identified,"Of those reports, the percentage with a dollar loss reported ",Total $ Lost, Median $ Loss 
+Email,"260,818",14%,14%,$323M,$800 
+Mail,"42,842",2%,13%,$65M,$823 
+Online Ad or Pop-up,"36,730",2%,68%,$96M,$181 
+Other,"114,354",6%,48%,$677M,$622 
+Phone call,"644,048",36%,9%,$692M,"$1,200 "
+Social Media,"159,423",9%,64%,$796M,$400 
+Text,"377,840",21%,4%,$131M,$900 
+Website or Apps,"177,777",10%,64%,$649M,$300 
+,,,,,
+Number of Fraud Reports,"2,789,161",,,,
+# of Reports with Contact Method,"1,813,832",65% of Total,,,
+,,,,,
+"Other contact methods includes TV or radio, print, fax, in person, consumer initiated contact, and other methods consumers write in or that cannot be otherwise categorized.",,,,,
+"Source: Consumer Sentinel Network Data Book 2021, Federal Trade Commission",,,,,

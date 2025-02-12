@@ -1,0 +1,19 @@
+Fraud Reports by Payment Method,,
+,,
+Payment Method,# of Reports, Total $ Loss 
+Wire Transfer,"112,229"," $333,319,350 "
+Credit Cards,"43,436"," $73,948,381 "
+Prepaid Cards,"28,275"," $39,705,767 "
+Bank Account Debit,"26,617"," $56,832,046 "
+Internet\Mobile,"8,675"," $22,176,313 "
+Cash\Cash Advance,"8,473"," $56,959,069 "
+Check,"8,231"," $50,592,002 "
+Money Order,"2,993"," $14,327,673 "
+Telephone Bill,"1,124"," $1,341,781 "
+,,
+Number of Fraud Reports,"1,138,306",
+# of Reports with Payment Method,"240,053",21% of Total
+,,
+"Data contributors MoneyGram International and Western Union provided a significant number of reports, which may affect the distribution of the reported methods of payment.  ",,
+,,
+"Source: Consumer Sentinel Network Data Book 2017, Federal Trade Commission",,
